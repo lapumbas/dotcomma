@@ -1,5 +1,3 @@
-
-
 body {
   font-family: 'Ubuntu', sans-serif;
   font-size: 18px;
@@ -213,8 +211,6 @@ html {
   padding: 0;
 }
 
-.skills-images {}
-
 .skills-images ul {
   border-top: 1px solid rgba(245, 245, 245, 0.596);
   list-style: none;
@@ -315,10 +311,12 @@ html {
   background: url("../img/works/device-index.jpg") no-repeat center 0;
   background-size: cover;
 }
+
 .folio-samples>ul>li:nth-of-type(2)>a {
   background: url("../img/works/barbershop-index.jpg") no-repeat center 0;
   background-size: cover;
 }
+
 .folio-samples>ul>li:nth-of-type(3)>a {
   background: url("../img/works/gllacy-index-1200.jpg") no-repeat center 0;
   background-size: cover;
@@ -333,22 +331,27 @@ html {
   background: url("../img/works/sedona-index-1200.jpg") no-repeat center 0;
   background-size: cover;
 }
+
 .folio-samples>ul>li:nth-of-type(6)>a {
   background: url("../img/works/technomart-index.jpg") no-repeat center 0;
   background-size: cover;
 }
+
 .folio-samples>ul>li:nth-of-type(7)>a {
   background: url("../img/works/506494843.jpeg") no-repeat center 0;
   background-size: cover;
 }
+
 .folio-samples>ul>li:nth-of-type(8)>a {
   background: url("../img/works/506493491.png") no-repeat center 0;
   background-size: cover;
 }
+
 .folio-samples>ul>li:nth-of-type(9)>a {
   background: url("../img/works/506492647.png") no-repeat center 0;
   background-size: cover;
 }
+
 .folio-samples>ul>li:nth-of-type(10)>a {
   background: url("../img/works/506494779.jpeg") no-repeat center 0;
   background-size: cover;
@@ -422,4 +425,3 @@ html {
   margin: 0;
   padding: 0;
 }
-
